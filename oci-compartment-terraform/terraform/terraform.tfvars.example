@@ -1,0 +1,4 @@
+tenancy_ocid            = "ocid1.tenancy.oc1..example"
+region                  = "ap-mumbai-1"
+compartment_name        = "example-project-prod"
+compartment_description = "Production resources for Example Project"
